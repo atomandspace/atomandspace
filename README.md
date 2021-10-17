@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atomandspace
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in machine learning projects and python projects
 - I have experience of working on python gui development projects.
 - 🌱 I’m currently learning django for everybody course
